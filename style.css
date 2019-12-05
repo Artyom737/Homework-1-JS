@@ -1,0 +1,51 @@
+.buttom3{
+    text-align: center;
+}
+.buttom3 div{
+    display: none;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flex div{
+    width: 200px;
+    height: 50px;
+    background-color: brown;
+    text-align: center;
+}
+.flex .buttom3{
+    display: none;
+}
+.try{
+    text-align: center;
+}
+.try .buttom3{
+    background-color: rgb(137, 17, 173);
+    width: 350px;
+    height: 45px;
+}
+.try div{
+    display: none;
+}
+.buttom3{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+}
+
+.container7{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    display: none;
+}
+
+.container7 div{
+width: 200px;
+height: 50px;
+border: 1 solid black
+}
+
